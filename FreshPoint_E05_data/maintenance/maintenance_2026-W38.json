@@ -1,0 +1,101 @@
+[
+{
+"ticket_id": "TK-00003",
+"consigne_id": "LYO-03",
+"ouvert_le": "2026-09-17T08:30:00",
+"clos_le": "2026-09-21T17:00:00",
+"cause": "compresseur",
+"cout_eur": 180,
+"technicien": "Alice Leroy"
+},
+{
+"ticket_id": "TK-00006",
+"consigne_id": "LYO-07",
+"ouvert_le": "2026-09-17T08:30:00",
+"clos_le": "2026-09-20T17:00:00",
+"cause": "compresseur",
+"cout_eur": 180,
+"technicien": "Karim Roux"
+},
+{
+"ticket_id": "TK-00013",
+"consigne_id": "NAN-02",
+"ouvert_le": "2026-09-15T08:30:00",
+"clos_le": "2026-09-17T17:00:00",
+"cause": "compresseur",
+"cout_eur": 320,
+"technicien": "Lina Simon"
+},
+{
+"ticket_id": "TK-00015",
+"consigne_id": "NAN-05",
+"ouvert_le": "2026-09-20T08:30:00",
+"clos_le": "2026-09-21T17:00:00",
+"cause": "compresseur",
+"cout_eur": 180,
+"technicien": "Louis Martin"
+},
+{
+"ticket_id": "TK-00016",
+"consigne_id": "NAN-08",
+"ouvert_le": "2026-09-18T08:30:00",
+"clos_le": "2026-09-22T17:00:00",
+"cause": "compresseur",
+"cout_eur": 320,
+"technicien": "Noah Martinez"
+},
+{
+"ticket_id": "TK-00018",
+"consigne_id": "NAN-09",
+"ouvert_le": "2026-09-15T08:30:00",
+"clos_le": "2026-09-18T17:00:00",
+"cause": "compresseur",
+"cout_eur": 450,
+"technicien": "Rayan Thomas"
+},
+{
+"ticket_id": "TK-00019",
+"consigne_id": "NAN-09",
+"ouvert_le": "2026-09-16T08:30:00",
+"clos_le": "2026-09-18T17:00:00",
+"cause": "compresseur",
+"cout_eur": 450,
+"technicien": "Chloé Bernard"
+},
+{
+"ticket_id": "TK-00024",
+"consigne_id": "LIL-04",
+"ouvert_le": "2026-09-18T08:30:00",
+"clos_le": "2026-09-20T17:00:00",
+"cause": "compresseur",
+"cout_eur": 320,
+"technicien": "Sofia Fournier"
+},
+{
+"ticket_id": "TK-00026",
+"consigne_id": "LIL-05",
+"ouvert_le": "2026-09-19T09:00:00",
+"clos_le": "2026-09-21T16:00:00",
+"cause": "porte",
+"cout_eur": 90,
+"technicien": "Adam Robert"
+},
+{
+"ticket_id": "TK-00027",
+"consigne_id": "LIL-06",
+"ouvert_le": "2026-09-19T09:00:00",
+"clos_le": "2026-09-20T16:00:00",
+"cause": "ecran",
+"cout_eur": 120,
+"technicien": "Maël Lefebvre"
+},
+{
+"ticket_id": "TK-00033",
+"consigne_id": "LIL-11",
+"ouvert_le": "2026-09-17T08:30:00",
+"clos_le": "2026-09-21T17:00:00",
+"cause": "compresseur",
+"cout_eur": 240,
+"technicien": "Maël Garcia"
+}
+]

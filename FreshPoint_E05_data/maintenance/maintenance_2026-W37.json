@@ -1,0 +1,20 @@
+[
+{
+"ticket_id": "TK-00017",
+"consigne_id": "NAN-08",
+"ouvert_le": "2026-09-09T09:00:00",
+"clos_le": "2026-09-10T16:00:00",
+"cause": "capteur",
+"cout_eur": 90,
+"technicien": "Eva Martinez"
+},
+{
+"ticket_id": "TK-00022",
+"consigne_id": "LIL-01",
+"ouvert_le": "2026-09-10T09:00:00",
+"clos_le": "2026-09-12T16:00:00",
+"cause": "porte",
+"cout_eur": 90,
+"technicien": "Théo André"
+}
+]

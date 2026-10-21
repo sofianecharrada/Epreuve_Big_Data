@@ -1,0 +1,29 @@
+[
+{
+"ticket_id": "TK-00010",
+"consigne_id": "LYO-08",
+"ouvert_le": "2026-09-03T08:30:00",
+"clos_le": "2026-09-06T17:00:00",
+"cause": "compresseur",
+"cout_eur": 180,
+"technicien": "Théo Bonnet"
+},
+{
+"ticket_id": "TK-00023",
+"consigne_id": "LIL-04",
+"ouvert_le": "2026-09-06T08:30:00",
+"clos_le": "2026-09-09T17:00:00",
+"cause": "compresseur",
+"cout_eur": 320,
+"technicien": "Manon Lambert"
+},
+{
+"ticket_id": "TK-00030",
+"consigne_id": "LIL-09",
+"ouvert_le": "2026-09-04T08:30:00",
+"clos_le": "2026-09-08T17:00:00",
+"cause": "compresseur",
+"cout_eur": 180,
+"technicien": "Jules Richard"
+}
+]

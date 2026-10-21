@@ -1,0 +1,29 @@
+[
+{
+"ticket_id": "TK-00004",
+"consigne_id": "LYO-03",
+"ouvert_le": "2026-10-02T08:30:00",
+"clos_le": "2026-10-06T17:00:00",
+"cause": "compresseur",
+"cout_eur": 450,
+"technicien": "Clara Dubois"
+},
+{
+"ticket_id": "TK-00021",
+"consigne_id": "LIL-01",
+"ouvert_le": "2026-09-30T08:30:00",
+"clos_le": "2026-10-04T17:00:00",
+"cause": "compresseur",
+"cout_eur": 320,
+"technicien": "Yasmine Lefebvre"
+},
+{
+"ticket_id": "TK-00028",
+"consigne_id": "LIL-08",
+"ouvert_le": "2026-09-29T08:30:00",
+"clos_le": "2026-10-03T17:00:00",
+"cause": "compresseur",
+"cout_eur": 320,
+"technicien": "Hugo Petit"
+}
+]

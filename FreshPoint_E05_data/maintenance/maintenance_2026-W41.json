@@ -1,0 +1,74 @@
+[
+{
+"ticket_id": "TK-00001",
+"consigne_id": "LYO-01",
+"ouvert_le": "2026-10-09T09:00:00",
+"clos_le": "2026-10-10T16:00:00",
+"cause": "ecran",
+"cout_eur": 90,
+"technicien": "Karim Mercier"
+},
+{
+"ticket_id": "TK-00002",
+"consigne_id": "LYO-02",
+"ouvert_le": "2026-10-05T09:00:00",
+"clos_le": "2026-10-07T16:00:00",
+"cause": "capteur",
+"cout_eur": 120,
+"technicien": "Noah Martin"
+},
+{
+"ticket_id": "TK-00005",
+"consigne_id": "LYO-03",
+"ouvert_le": "2026-10-05T08:30:00",
+"clos_le": "2026-10-07T17:00:00",
+"cause": "compresseur",
+"cout_eur": 450,
+"technicien": "Léa Richard"
+},
+{
+"ticket_id": "TK-00009",
+"consigne_id": "LYO-07",
+"ouvert_le": "2026-10-11T08:30:00",
+"clos_le": "2026-10-13T17:00:00",
+"cause": "compresseur",
+"cout_eur": 180,
+"technicien": "Louis Martinez"
+},
+{
+"ticket_id": "TK-00011",
+"consigne_id": "LYO-10",
+"ouvert_le": "2026-10-05T09:00:00",
+"clos_le": "2026-10-08T16:00:00",
+"cause": "serrure",
+"cout_eur": 120,
+"technicien": "Ethan Dupont"
+},
+{
+"ticket_id": "TK-00029",
+"consigne_id": "LIL-08",
+"ouvert_le": "2026-10-05T08:30:00",
+"clos_le": "2026-10-09T17:00:00",
+"cause": "compresseur",
+"cout_eur": 240,
+"technicien": "Maël Moreau"
+},
+{
+"ticket_id": "TK-00032",
+"consigne_id": "LIL-09",
+"ouvert_le": "2026-10-07T08:30:00",
+"clos_le": "2026-10-09T17:00:00",
+"cause": "compresseur",
+"cout_eur": 450,
+"technicien": "Maël David"
+},
+{
+"ticket_id": "TK-00034",
+"consigne_id": "LIL-11",
+"ouvert_le": "2026-10-08T09:00:00",
+"clos_le": "2026-10-10T16:00:00",
+"cause": "ecran",
+"cout_eur": 90,
+"technicien": "Karim Roux"
+}
+]

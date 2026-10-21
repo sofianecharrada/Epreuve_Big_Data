@@ -1,0 +1,13 @@
+{
+ "prestataire": "GlacioTrans",
+ "fin_contrat": "2026-12-31",
+ "fuseau_metier": "Europe/Paris",
+ "depot_limite_local": "16:30",
+ "penalite_depot_tardif_eur": 8,
+ "penalite_non_livre_eur": 25,
+ "taux_depot_a_l_heure_min": 0.95,
+ "seuil_temp_c": 6.0,
+ "duree_excursion_min": 30,
+ "retrait_ferme_local": "21:30",
+ "regle_excursion": "au moins 4 mesures consecutives (pas de 10 min) strictement superieures au seuil"
+}

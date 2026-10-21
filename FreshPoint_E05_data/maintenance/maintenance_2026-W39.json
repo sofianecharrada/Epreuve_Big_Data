@@ -1,0 +1,65 @@
+[
+{
+"ticket_id": "TK-00007",
+"consigne_id": "LYO-07",
+"ouvert_le": "2026-09-22T08:30:00",
+"clos_le": "2026-09-26T17:00:00",
+"cause": "compresseur",
+"cout_eur": 450,
+"technicien": "Zoé Girard"
+},
+{
+"ticket_id": "TK-00008",
+"consigne_id": "LYO-07",
+"ouvert_le": "2026-09-24T08:30:00",
+"clos_le": "2026-09-28T17:00:00",
+"cause": "compresseur",
+"cout_eur": 240,
+"technicien": "Adam André"
+},
+{
+"ticket_id": "TK-00012",
+"consigne_id": "NAN-01",
+"ouvert_le": "2026-09-24T08:30:00",
+"clos_le": "2026-09-27T17:00:00",
+"cause": "compresseur",
+"cout_eur": 240,
+"technicien": "Sofia Richard"
+},
+{
+"ticket_id": "TK-00014",
+"consigne_id": "NAN-02",
+"ouvert_le": "2026-09-21T09:00:00",
+"clos_le": "2026-09-24T16:00:00",
+"cause": "capteur",
+"cout_eur": 120,
+"technicien": "Adam Dupont"
+},
+{
+"ticket_id": "TK-00020",
+"consigne_id": "NAN-09",
+"ouvert_le": "2026-09-27T09:00:00",
+"clos_le": "2026-09-29T16:00:00",
+"cause": "serrure",
+"cout_eur": 120,
+"technicien": "Inès Dupont"
+},
+{
+"ticket_id": "TK-00025",
+"consigne_id": "LIL-04",
+"ouvert_le": "2026-09-23T08:30:00",
+"clos_le": "2026-09-27T17:00:00",
+"cause": "compresseur",
+"cout_eur": 320,
+"technicien": "Tom Durand"
+},
+{
+"ticket_id": "TK-00031",
+"consigne_id": "LIL-09",
+"ouvert_le": "2026-09-23T08:30:00",
+"clos_le": "2026-09-25T17:00:00",
+"cause": "compresseur",
+"cout_eur": 320,
+"technicien": "Axel David"
+}
+]
