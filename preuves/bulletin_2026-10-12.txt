@@ -1,0 +1,16 @@
+==================================================
+BULLETIN D'EXPLOITATION MATINAL - FRESHPOINT
+Date de génération : 2026-10-12 06:30:00 (Généré automatiquement)
+Destinataire : Inès (Responsable d'exploitation)
+==================================================
+
+1. CONSIGNES PRIORITAIRES À CONTRÔLER CE MATIN (7h15) :
+   - LYON-04 : Alerte chaîne du froid (> 6°C pendant > 30 min).
+   - NANTES-02 : Hausse anormale des retraits manqués (casiers vides).
+
+2. SUIVI DES TOURNÉES GLACIOTRANS :
+   - Taux de ponctualité global : 94.2% (Objectif : 95%).
+   - Pénalités applicables : 2 retards (16 €) + 1 panier non livré (25 €) = 41 €.
+
+==================================================
+Fin du bulletin automatique - Système E05
